@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color bg_dark
+color black
+color card_bg
+color green_accent
+color text_secondary
+color white
+drawable ic_avatar
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable my_avatar
+id btnUpdateGpa
+id cardProfile
+id edtNewGpa
+id imgAvatar
+id tvGpaBadge
+id tvName
+id tvStudentId
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style CircleImage
+style Theme.BT_Profile_Student_Card
+xml backup_rules
+xml data_extraction_rules

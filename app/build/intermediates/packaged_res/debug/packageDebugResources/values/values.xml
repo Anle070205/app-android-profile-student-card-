@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#1B2631</color>
+    <color name="black">#FF000000</color>
+    <color name="card_bg">#243342</color>
+    <color name="green_accent">#34B469</color>
+    <color name="text_secondary">#DCE6EB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Student Profile Card</string>
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.BT_Profile_Student_Card" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_accent</item>
+        <item name="colorPrimaryVariant">@color/green_accent</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

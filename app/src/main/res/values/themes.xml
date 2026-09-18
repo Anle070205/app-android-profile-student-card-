@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Theme.BT_Profile_Student_Card" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_accent</item>
+        <item name="colorPrimaryVariant">@color/green_accent</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
 
-    <style name="Theme.BT_Profile_Student_Card" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Style để bo tròn ảnh -->
+    <style name="CircleImage">
+        <item name="cornerSize">50%</item>
+    </style>
 </resources>

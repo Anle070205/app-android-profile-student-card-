@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.bt_profile_student_card.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.bt_profile_student_card.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\9.5.0\\com.example.bt_profile_student_card.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\9.5.0\\com.example.bt_profile_student_card.app-main-35:\\layout\\activity_main.xml"
+    }
+]
